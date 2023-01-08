@@ -34,9 +34,10 @@
 
 # Sobre o Projeto
 
-- Paralelogramo, projeto Orientação objeto em C#
+- Losango, projeto Orientação objeto em C#
 - Treinamento e atualização no aprendizado em programação orientado objeto
 - Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, desenvolvimentos de telas, organização de classe em C#.
+- Projeto remoto sem banco de dado.
 - Tenho formação Técnico em informática, mas sempre estou me aprimorando na aréa de teconologia.
 
 # Ferramenta Aplicada Neste Curso
