@@ -1,15 +1,17 @@
-# Paralelogramo, Projeto Orientação Objeto
+# Losango, Projeto Orientação Objeto
 
 # Tela Acessar Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211170204-7203fd24-00a7-4e27-841c-2def52ccafd4.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211174764-f18af51f-e042-4681-9196-64a7e52271a0.JPG"></img>
 </a>
+
+
 
 # Tela Principal do Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211170244-72d2ca69-98be-4eb3-a9c9-f31eda96fb7f.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211174776-d38b9eac-d4f6-4a61-81b3-5291c72435c2.JPG"></img>
 </a>
 
 # Classe Dados do Projeto
