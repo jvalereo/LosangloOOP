@@ -1,6 +1,6 @@
 # Losango, Projeto Orientação Objeto
 
-# Tela Acessar Projeto
+# Tela Acessar do Projeto
 
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211174764-f18af51f-e042-4681-9196-64a7e52271a0.JPG"></img>
